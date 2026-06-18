@@ -1,0 +1,100 @@
+#,Company,City,Region,Focus_Area,Stage,Priority
+1,Halozyme Therapeutics,La Jolla,SD,Drug delivery (ENHANZE),Strong,undefined
+2,Neurocrine Biosciences,San Diego,SD,CNS & neuroendocrine,Strong,undefined
+3,Ionis Pharmaceuticals,Carlsbad,SD,RNA-targeted therapies,Strong,undefined
+4,Maravai LifeSciences,Carlsbad,SD,mRNA & biologics tools,Strong,undefined
+5,Ligand Pharmaceuticals,San Diego,SD,Drug royalties & licensing,Warm,undefined
+6,Fate Therapeutics,San Diego,SD,iPSC cell therapy,Hot,undefined
+7,Crinetics Pharmaceuticals,San Diego,SD,Rare endocrine diseases,Hot,undefined
+8,Gossamer Bio,San Diego,SD,Immunology specialty pharma,Hot,undefined
+9,Heron Therapeutics,San Diego,SD,Pain & oncology support,Strong,undefined
+10,Zentalis Pharmaceuticals,San Diego,SD,WEE1 oncology,Hot,undefined
+11,Inhibrx,La Jolla,SD,Multi-specific proteins,Hot,undefined
+12,Regulus Therapeutics,San Diego,SD,MicroRNA therapeutics,Strong,undefined
+13,Aclarion,San Diego,SD,Disc pain diagnostics,Warm,undefined
+14,Arcturus Therapeutics,San Diego,SD,mRNA therapeutics,Hot,undefined
+15,Avidity Biosciences,San Diego,SD,RNA muscle/neuro therapies,Hot,undefined
+16,Element Biosciences,La Jolla,SD,Next-gen DNA sequencing,Hot,undefined
+17,Singular Genomics,La Jolla,SD,Genomics platforms,Hot,undefined
+18,Erasca,San Diego,SD,RAS/MAPK precision oncology,Hot,undefined
+19,Artiva Biotherapeutics,San Diego,SD,NK cell therapy,Hot,undefined
+20,Poseida Therapeutics,San Diego,SD,Non-viral gene therapy,Hot,undefined
+21,Nkarta Bio,San Diego,SD,Engineered NK cell therapy,Hot,undefined
+22,Nuvation Bio,San Diego,SD,Oncology pipeline,Hot,undefined
+23,Rakuten Medical,San Diego,SD,Photoimmunotherapy,Strong,undefined
+24,Boundless Bio,San Diego,SD,ecDNA oncology,Hot,undefined
+25,Empirico,San Diego,SD,siRNA genetic medicines,Hot,undefined
+26,Inhibrx Biosciences,La Jolla,SD,Rare disease proteins (spinoff),Hot,undefined
+27,Passage Bio (US HQ),La Jolla,SD,CNS gene therapy,Hot,undefined
+28,Cidara Therapeutics,San Diego,SD,Antifungal therapeutics,Strong,undefined
+29,Eliem Therapeutics,La Jolla,SD,Neurology & pain,Hot,undefined
+30,Ikena Oncology,San Diego,SD,Precision oncology,Hot,undefined
+31,Capstan Therapeutics,San Diego,SD,In vivo T cell engineering,Hot,undefined
+32,Q32 Bio,San Diego,SD,Complement immunology,Hot,undefined
+33,Crystalys Therapeutics,San Diego,SD,Novel therapeutics,Hot,undefined
+34,Timberlyne Therapeutics,San Diego,SD,Autoimmune diseases,Hot,undefined
+35,Protego Biopharma,San Diego,SD,Small molecule therapy,Hot,undefined
+36,Aspen Neuroscience,San Diego,SD,iPSC therapy / Parkinson's,Hot,undefined
+37,RayThera,San Diego,SD,Immunology drugs,Hot,undefined
+38,Replicate Bioscience,San Diego,SD,Self-amplifying RNA,Hot,undefined
+39,Tr1X Inc.,La Jolla,SD,Cell immunotherapy autoimmune,Hot,undefined
+40,Turn Bio,San Diego,SD,RNA cellular reprogramming,Hot,undefined
+41,Outpace Bio,San Diego,SD,Rare disease gene therapy,Hot,undefined
+42,Evommune,San Diego,SD,Prurigo & dermatology,Hot,undefined
+43,Tarus Therapeutics,San Diego,SD,Adenosine pathway oncology,Strong,undefined
+44,Arctus Biotherapeutics,San Diego,SD,Cardiorenal diseases,Strong,undefined
+45,National Resilience,San Diego,SD,Biomanufacturing CDMO,Strong,undefined
+46,BioDuro-Sundia,San Diego,SD,CRDMO services,Strong,undefined
+47,Ajinomoto BioPharma Services,San Diego,SD,Pharma CDMO,Warm,undefined
+48,Lineage Cell Therapeutics,Carlsbad,SD,Allogeneic cell therapy,Strong,undefined
+49,InflaRx (North America),La Jolla,SD,S100A8/A9 complement,Strong,undefined
+50,Talis Biomedical,San Diego,SD,Rapid molecular diagnostics,Strong,undefined
+51,Arrowhead Pharmaceuticals,Pasadena,LA,RNAi therapies,Hot,undefined
+52,Xencor,Monrovia,LA,Antibody engineering,Strong,undefined
+53,ImmunityBio,El Segundo,LA,Cancer immunotherapy,Hot,undefined
+54,Atara Biotherapeutics,Thousand Oaks,LA,Allogeneic T-cell therapy,Hot,undefined
+55,Puma Biotechnology,Los Angeles,LA,HER2+ breast cancer,Strong,undefined
+56,CytRx Corporation,Los Angeles,LA,Albumin-binding oncology,Strong,undefined
+57,Armata Pharmaceuticals,Marina del Rey,LA,Phage therapy / AMR,Hot,undefined
+58,Niagen Bioscience,Los Angeles,LA,Longevity & metabolism,Strong,undefined
+59,Coherus BioSciences,Camarillo,LA,Biosimilars & oncology,Strong,undefined
+60,Enochian Biosciences,Los Angeles,LA,Gene & cell therapy,Strong,undefined
+61,Avita Medical,Valencia,LA,Skin cell regeneration,Strong,undefined
+62,Oncternal Therapeutics,Santa Monica,LA,CLDN6/GD2 oncology,Hot,undefined
+63,Capricor Therapeutics,Beverly Hills,LA,Exosome / cardio & muscle,Hot,undefined
+64,Kite Pharma (Gilead),Santa Monica,LA,CAR-T cell therapy,Warm,undefined
+65,Capsida Biotherapeutics,Los Angeles,LA,AAV gene therapy,Hot,undefined
+66,A2 Biotherapeutics,Agoura Hills,LA,Solid tumor cell therapy,Hot,undefined
+67,Acelyrin (→ Alumis),Westlake Village,LA,TYK2 / immunology,Hot,undefined
+68,Nammi Therapeutics,Los Angeles,LA,Immuno-oncology,Hot,undefined
+69,Pelage Pharmaceuticals,Los Angeles,LA,Regenerative medicine,Hot,undefined
+70,Spatial Genomics,Pasadena,LA,Spatial single-cell analysis,Hot,undefined
+71,ImmunGene,Encino,LA,Antibody immunotherapy,Hot,undefined
+72,Amphora Discovery,Thousand Oaks,LA,GPCR & allosteric molecules,Hot,undefined
+73,Lykan Bioscience,Los Angeles,LA,Viral vector CDMO,Hot,undefined
+74,Lustre Biosciences,Los Angeles,LA,Gut microbiome therapeutics,Hot,undefined
+75,Vivodyne,Los Angeles,LA,Human tissue drug testing,Hot,undefined
+76,Halo Diagnostics,Pasadena,LA,Breast cancer liquid biopsy,Hot,undefined
+77,Imagene,Los Angeles,LA,AI-powered drug discovery,Hot,undefined
+78,NantHealth,Culver City,LA,Genomic clinical platform,Strong,undefined
+79,Aprea Therapeutics,Los Angeles,LA,p53 reactivation oncology,Hot,undefined
+80,Genalyte,Los Angeles,LA,Point-of-care diagnostics,Hot,undefined
+81,Caris Life Sciences,Burbank,LA,Molecular intelligence Dx,Strong,undefined
+82,PSC Biotech,Pomona,LA,Life sciences CRO & consulting,Strong,undefined
+83,Aadi Biosciences,Pacific Palisades,LA,mTOR / rare cancer,Strong,undefined
+84,Rocket Pharmaceuticals,Los Angeles,LA,Gene therapy,Hot,undefined
+85,Pacific Biopharma Group,Los Angeles,LA,Specialty pharma & CDMO,Strong,undefined
+86,Global Blood Therapeutics,El Segundo,LA,Sickle cell disease (Pfizer),Warm,undefined
+87,Vivos Therapeutics,Thousand Oaks,LA,Sleep & dental biotech,Warm,undefined
+88,Bruin Biometrics,Los Angeles,LA,SEM wound diagnostics,Strong,undefined
+89,Tempus AI (LA site),Culver City,LA,AI precision medicine,Strong,undefined
+90,CG Oncology,Irvine,OC,Oncolytic virotherapy,Hot,undefined
+91,Tarsus Pharmaceuticals,Irvine,OC,Ophthalmic / Demodex,Hot,undefined
+92,Kelun-Biotech (US),Irvine,OC,ADC oncology,Hot,undefined
+93,Arctyl Biosciences,Thousand Oaks,OC,CAR-T cell therapy,Hot,undefined
+94,Hycor Biomedical,Garden Grove,OC,Allergy diagnostics,Strong,undefined
+95,Torrent Pharma (US),Irvine,OC,Generic specialty pharma,Warm,undefined
+96,Orion Biotech,Irvine,OC,Oncology small molecules,Strong,undefined
+97,Kelun US Pharma,Irvine,OC,Novel oncology formulations,Hot,undefined
+98,Inhibrx (Irvine site),Irvine,OC,Protein therapeutics,Hot,undefined
+99,Anterios,Newport Beach,OC,Botulinum / neurotoxin delivery,Strong,undefined
